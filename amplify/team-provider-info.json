@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quotegenerator-dev-22457-authRole",
+      "UnauthRoleArn": "arn:aws:iam::876823902156:role/amplify-quotegenerator-dev-22457-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::876823902156:role/amplify-quotegenerator-dev-22457-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-quotegenerator-dev-22457-deployment",
+      "UnauthRoleName": "amplify-quotegenerator-dev-22457-unauthRole",
+      "StackName": "amplify-quotegenerator-dev-22457",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:876823902156:stack/amplify-quotegenerator-dev-22457/70454130-094e-11ee-8272-062fa483a518",
+      "AmplifyAppId": "d3e1y3jq5ym5zf"
+    },
+    "categories": {
+      "auth": {
+        "quotegenerator5816ed24": {}
+      },
+      "function": {
+        "quotegeneratorLambda": {
+          "deploymentBucketName": "amplify-quotegenerator-dev-22457-deployment",
+          "s3Key": "amplify-builds/quotegeneratorLambda-55417732676a74616933-build.zip"
+        }
+      },
+      "api": {
+        "quotegenerator": {}
+      }
+    }
+  }
+}
